@@ -39,6 +39,4 @@ int main()
     }
     printf("the seq");
     return 0;
-
-    return 0;
 }
